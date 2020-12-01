@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hello, World! 👋
 
-I write software in a lot of languages but I prefer doing it with JavaScript. I'm interested in everything software and startups. I particularly drawn to computer systems, AI and cryptocurrency projects. I occasionally write web development articles for Auth0. [You can find my content here](https://auth0.com/blog/authors/vladimir-fomene/).
+I write software in a lot of languages but I prefer doing it with JavaScript. I'm interested in everything software and startups. I particularly drawn to computer systems, AI and cryptocurrency projects. I occasionally write web development articles for Auth0. [You can find my content here](https://www.vladimirfomene.com/).
 
 - 🌱 I’m currently learning Crypto
 - 👯 I’m looking to collaborate on Crypto projects
