@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hello, World! 👋
 
-I write software in a lot of languages but I prefer doing it with JavaScript and Python. I'm interested in everything software and startups. I particularly drawn to computer systems, AI and cryptocurrency projects. I occasionally write web development articles for Auth0. [You can find my content here](https://www.vladimirfomene.com/).
+I write software in a lot of languages but I prefer doing it with JavaScript, Python and Rust. I'm interested in everything software and startups. I particularly drawn to computer systems, Bitcoin and Lightning projects. I occasionally write technical articles about web development, Bitcoin and Lightning. [You can find my content here](https://www.vladimirfomene.com/).
 
-- 🌱 I’m currently learning Crypto
-- 👯 I’m looking to collaborate on Crypto projects
+- 🌱 I’m currently learning Bitcoin/Lightning
+- 👯 I’m looking to collaborate on Bitcoin/Lightning projects
 - 📫 How to reach me: vladimirfomene@gmail.com
 
 
